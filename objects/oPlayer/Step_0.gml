@@ -53,8 +53,4 @@ halfViewHeight = camera_get_view_height(view_camera[0]) / 2
 camera_set_view_pos(view_camera[0], x - halfViewWidth, y - halfViewHeight)
 
 //if visable = true {
-
-//speeder repaired state
-if (oSpeeder.partsMissing == 0) {
-	image_alpha = 0
-}
+	
