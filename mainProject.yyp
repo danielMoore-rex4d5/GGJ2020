@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0546fd2c-1ea5-472c-b393-c87d1f0370f3",
+            "Value": {
+                "id": "19c015cc-28e8-4369-89c1-3c4d05c68bd3",
+                "resourcePath": "objects\/oPart\/oPart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0934450d-777d-4c51-aecf-802fe376e93f",
             "Value": {
                 "id": "62d5fb16-f565-4dbb-ab23-a71742d70d67",
@@ -95,10 +103,18 @@
             }
         },
         {
+            "Key": "4482e27f-3d80-4703-b10c-ac6b59a6e50a",
+            "Value": {
+                "id": "0481c34f-ef2a-48d8-86bd-0bdf7e988a72",
+                "resourcePath": "sprites\/sSpeeder\/sSpeeder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "47b4e76f-e699-4cce-8f7c-802699dd94e1",
             "Value": {
                 "id": "2c6f158d-882f-43f4-97de-1f3c643ef721",
-                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourcePath": "sprites\/sprite12\/sprite12.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "76a8a798-17cf-47e4-8db6-abb0d4008795",
+            "Value": {
+                "id": "8202a65f-0f4b-445a-9e0d-4fa53e085969",
+                "resourcePath": "sprites\/sPart\/sPart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "76c2a143-55b2-446e-934e-8afcbb8307aa",
             "Value": {
                 "id": "f80e5ffe-e246-4768-b136-173194e0e97b",
@@ -239,11 +263,27 @@
             }
         },
         {
+            "Key": "9221b506-ccdb-47d6-8802-674b7db2248f",
+            "Value": {
+                "id": "ef32c12c-cbc3-4b90-ab9b-d360ccdd646e",
+                "resourcePath": "objects\/oSpeeder\/oSpeeder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "994adcd0-6570-45fd-8be7-02b9ad4f2d38",
             "Value": {
                 "id": "b893cca1-7cac-47dc-9bf0-c726755d1203",
                 "resourcePath": "views\/994adcd0-6570-45fd-8be7-02b9ad4f2d38.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9ed355b8-8f59-4d2f-803c-2293fcde23a2",
+            "Value": {
+                "id": "e1aaa6f2-b423-4c6c-aa62-2747f5501f9a",
+                "resourcePath": "sprites\/sSpeederRepaired\/sSpeederRepaired.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
