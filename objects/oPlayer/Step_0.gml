@@ -1,19 +1,20 @@
 /* movement */
 //walking
 speed = 0
-if keyboard_check(ord("W")) {
-	vspeed -= mySpeed
+if alive = true {
+	if keyboard_check(ord("W")) {
+		vspeed -= mySpeed
+	}
+	if keyboard_check(ord("S")) {
+		vspeed += mySpeed
+	}
+	if keyboard_check(ord("A")) {
+		hspeed -= mySpeed
+	}
+	if keyboard_check(ord("D")) {
+		hspeed += mySpeed
+	}
 }
-if keyboard_check(ord("S")) {
-	vspeed += mySpeed
-}
-if keyboard_check(ord("A")) {
-	hspeed -= mySpeed
-}
-if keyboard_check(ord("D")) {
-	hspeed += mySpeed
-}
-
 /* invisability */
 if visable = true {
 	if keyboard_check(vk_space) {
@@ -54,3 +55,11 @@ camera_set_view_pos(view_camera[0], x - halfViewWidth, y - halfViewHeight)
 
 //if visable = true {
 	
+death = instance_place(x,y,oBullet)
+if instance_exists(death) {
+	alive = false
+}
+
+if alive = false {
+	sprite_index = sPlayerDeath
+}

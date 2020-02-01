@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "1f00d0d0-c8b9-4423-9eba-7939e29f5554",
-            "Value": {
-                "id": "667f88e1-7cab-44c4-a9a0-067d3c2e45b7",
-                "resourcePath": "objects\\oVision\\oVision.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "28666214-2b2e-403f-a3fe-717b68a34cf8",
             "Value": {
                 "id": "46dc1508-3f3c-441e-8712-e59f44a2b0de",
@@ -148,6 +140,14 @@
                 "id": "b951b90e-dad2-4954-94d0-5dd49eac0cd2",
                 "resourcePath": "objects\\oEnemy\\oEnemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "63f70f49-ef77-417c-9443-bee9b9b42538",
+            "Value": {
+                "id": "dafb1ea6-87e4-41e7-bbac-07f933fd564d",
+                "resourcePath": "sprites\\sDog\\sDog.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "bca1c801-0c96-4f96-a956-eaa9a1f6c7cd",
+            "Value": {
+                "id": "24d76005-a7fb-496d-a441-256482ac456a",
+                "resourcePath": "objects\\oPlayerDead\\oPlayerDead.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bd70a0e2-0d0d-4a1f-ba6f-ba05acbdc14e",
             "Value": {
                 "id": "44e6abc2-81aa-4aee-b28c-4a3316eb5504",
@@ -351,6 +359,14 @@
             }
         },
         {
+            "Key": "d090ec61-3517-4902-9716-a6ed58564b6f",
+            "Value": {
+                "id": "4aaf92c6-95a2-4dab-86cf-57bc9d64ae8a",
+                "resourcePath": "objects\\oDog\\oDog.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d3139553-f9a6-4b34-893f-6ab2e9e25c57",
             "Value": {
                 "id": "62fedae1-bfbd-4fcf-b578-22966b396e3c",
@@ -364,6 +380,14 @@
                 "id": "fa1c8f85-a7ea-4b66-805d-bbf2600a4e82",
                 "resourcePath": "views\\d4be0dc0-bdf3-4e95-a381-26825f50d927.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d8fc786b-943b-45a4-a81c-1a4214d9f074",
+            "Value": {
+                "id": "85d3b0ef-09f9-4429-ad31-e5be5f3634ec",
+                "resourcePath": "sprites\\sPlayerDeath\\sPlayerDeath.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
