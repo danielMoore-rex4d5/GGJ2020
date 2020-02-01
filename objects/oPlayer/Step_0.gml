@@ -31,6 +31,15 @@ if visableTimeAlive < visableLifeTime {
 	visableTimeAlive = 0
 }
 
+//spotted
+spotted = instance_place(x,y,oConeOfVision)
+
+if instance_exists(spotted) {
+	oEnemy.followPlayer = true
+} else {
+	oEnemy.followPlayer = false
+}
+
 //sprite setting
 if visable = true {
 	sprite_index = sPlayer

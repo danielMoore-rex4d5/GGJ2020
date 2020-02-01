@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "1b3665bb-a95d-4845-827e-0d2c0178d897",
+            "Value": {
+                "id": "5785bf51-6160-4d66-a8bc-0b1df4e843b7",
+                "resourcePath": "objects\\oSpottedTest\\oSpottedTest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1f00d0d0-c8b9-4423-9eba-7939e29f5554",
+            "Value": {
+                "id": "667f88e1-7cab-44c4-a9a0-067d3c2e45b7",
+                "resourcePath": "objects\\oVision\\oVision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "28666214-2b2e-403f-a3fe-717b68a34cf8",
             "Value": {
                 "id": "46dc1508-3f3c-441e-8712-e59f44a2b0de",
@@ -143,11 +159,27 @@
             }
         },
         {
+            "Key": "73652c36-cc5d-4d5f-aa78-cb34d10e912e",
+            "Value": {
+                "id": "fb670437-7d52-491d-9669-8249bdb27bd6",
+                "resourcePath": "objects\\oConeOfVision\\oConeOfVision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "76c2a143-55b2-446e-934e-8afcbb8307aa",
             "Value": {
                 "id": "f80e5ffe-e246-4768-b136-173194e0e97b",
                 "resourcePath": "objects\\oWatchTower\\oWatchTower.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "77eb802b-032b-4e50-95cc-dcb0a33fcbfa",
+            "Value": {
+                "id": "cd46583f-4140-4acf-8b63-35c985f39e28",
+                "resourcePath": "sprites\\sBullet\\sBullet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -164,6 +196,14 @@
                 "id": "5d00027c-c280-4961-a122-64c00b37b679",
                 "resourcePath": "sprites\\sWallLength\\sWallLength.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "85d42aa8-9919-4730-8853-56ace1f4227e",
+            "Value": {
+                "id": "da8e11e3-d552-4924-8d3b-b9869de1a840",
+                "resourcePath": "objects\\oBullet\\oBullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -255,6 +295,14 @@
             }
         },
         {
+            "Key": "bdac00da-6ed8-421c-baa6-6e0022d920dd",
+            "Value": {
+                "id": "75c71665-1591-44e7-a8ca-b866def5934e",
+                "resourcePath": "objects\\oAlarm\\oAlarm.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c573268b-570e-45ed-ae2d-548c50d45541",
             "Value": {
                 "id": "9731ee16-83f9-44f8-b9e1-f509e43a0a34",
@@ -292,6 +340,14 @@
                 "id": "fa1c8f85-a7ea-4b66-805d-bbf2600a4e82",
                 "resourcePath": "views\\d4be0dc0-bdf3-4e95-a381-26825f50d927.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e5f0ebb6-b732-41e5-bf18-41d623f3ebb0",
+            "Value": {
+                "id": "4824c5c9-b88f-4ea6-888a-b189984d0912",
+                "resourcePath": "sprites\\sHidingSpot\\sHidingSpot.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

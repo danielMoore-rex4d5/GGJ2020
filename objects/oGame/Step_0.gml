@@ -9,6 +9,6 @@ if keyboard_check(vk_escape) {
 //setting full screen
 window_set_fullscreen(true)
 
-/* camera 
-//view_object[0] = oPlayer
-camera_set_view_target(view_camera[0],oPlayer)
+
+
+
