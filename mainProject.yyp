@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "bc9a91e9-2444-4a74-b220-8af6c45e5dd0",
+            "Value": {
+                "id": "1e9fdc74-192a-417f-97a5-8673d5f66acb",
+                "resourcePath": "scripts\\stayInRoom\\stayInRoom.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "bd70a0e2-0d0d-4a1f-ba6f-ba05acbdc14e",
             "Value": {
                 "id": "44e6abc2-81aa-4aee-b28c-4a3316eb5504",
@@ -333,10 +341,18 @@
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
             }
+        },
+        {
+            "Key": "fdd7ad20-0185-42d5-8680-dc5aeaf95845",
+            "Value": {
+                "id": "740f5b39-43f6-44f6-9f61-e9706909f755",
+                "resourcePath": "objects\\oBlockage\\oBlockage.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
-        
+        "bc9a91e9-2444-4a74-b220-8af6c45e5dd0"
     ],
     "tutorial": ""
 }
