@@ -239,11 +239,27 @@
             }
         },
         {
+            "Key": "944fe834-8e18-435e-b348-f13f2e819fbb",
+            "Value": {
+                "id": "11445911-63c2-4e30-bead-cd2cfcb57c6d",
+                "resourcePath": "sprites\\sSearchLDouble\\sSearchLDouble.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "994adcd0-6570-45fd-8be7-02b9ad4f2d38",
             "Value": {
                 "id": "b893cca1-7cac-47dc-9bf0-c726755d1203",
                 "resourcePath": "views\\994adcd0-6570-45fd-8be7-02b9ad4f2d38.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a82a566d-fe31-4317-8604-acf7e87ce058",
+            "Value": {
+                "id": "b94c1e98-3d9f-4c9e-8f71-ff6a6029d09c",
+                "resourcePath": "objects\\oSearchLDouble\\oSearchLDouble.yy",
+                "resourceType": "GMObject"
             }
         },
         {
