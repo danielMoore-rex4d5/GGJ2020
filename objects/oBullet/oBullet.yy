@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oBullet",
     "eventList": [
-        
+        {
+            "id": "f8fa0832-c183-4592-99c6-9a6dd8965990",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "85d42aa8-9919-4730-8853-56ace1f4227e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -4,11 +4,20 @@
     "mvc": "1.0",
     "name": "oSearchLDouble",
     "eventList": [
-        
+        {
+            "id": "69ded960-538f-45d1-903b-a994ba5d7a17",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a82a566d-fe31-4317-8604-acf7e87ce058"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "73652c36-cc5d-4d5f-aa78-cb34d10e912e",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

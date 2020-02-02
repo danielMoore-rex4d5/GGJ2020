@@ -1,2 +1,2 @@
 //initializing variables
-alarmed = false
+//alarmed = false
